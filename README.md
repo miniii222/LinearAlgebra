@@ -14,3 +14,14 @@
 - 세 번쨰가 나머지 두 벡터의 span위에 있지 않으면, 세번째의 방향에 따라 첫번째, 두번째 span이 움직임
 - 세 번째가 나머지 두 벡터의 span위에 있다. 즉, v와 w로 세번째 벡터 표현 가능. `(linearly dependent)`
 ![image](https://github.com/miniii222/LinearAlgebra/blob/master/span_3d.PNG '3d')
+
+### Chapter 3 Linear Transformations
+- The word `transformation` suggets that you think usin movement
+- a.k.a function
+- Grid lines remain parallel and evenly spced
+- Lines remain lines
+- Origin remains fixed
+
+
+### Chapter 4 Matrix multiplication as composition
+![image](https://github.com/miniii222/LinearAlgebra/blob/master/composition.PNG 'composition')
