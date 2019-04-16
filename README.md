@@ -52,4 +52,11 @@
 ### Chapter 8 Nonsquare matrices as transformations between dimensions
 
 
+### Chapter 9 Dot products and duality
+![image](https://github.com/miniii222/LinearAlgebra/blob/master/projection.PNG 'projection')
+- 두 벡터가 같은 방향을 가리키면 내적 > 0 (0~90도)
+- 두 벡터가 수직이면 내적 = 0 (09도)
+- 두 벡터가 반대 방향을 가리키면 내적 < 0 (91~180)
+
+
 
